@@ -4,7 +4,7 @@
   "homepage": "https://github.com/pfitzpaddy/ngm-leaflet-control-geocoder",
   "authors": [
     "Per Liedman <per@liedman.net>",
-    "Patrick Fitzgerald",
+    "Patrick Fitzgerald"
   ],
   "description": "Extendable geocoder with builtin OSM/Nominatim support",
   "main": [
