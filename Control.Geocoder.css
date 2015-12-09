@@ -49,7 +49,7 @@
 	background-position: center;
 }
 .leaflet-control-geocoder-throbber .leaflet-control-geocoder-icon {
-	background-image: url(images/throbber.gif);
+	background-image: url(images/throbber.svg);
 }
 
 .leaflet-control-geocoder-form-no-error {
